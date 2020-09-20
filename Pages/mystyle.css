@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Aug 17, 2020, 9:58:54 PM
+    Author     : Bhatti
+*/
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+.navbg
+{
+    background: #006064;
+}
+.header
+{
+    height: 90vh;
+    width:100%;
+    background:linear-gradient(to right,rgba(62,32,233,1),rgba(250,64,64,0.5)),url('https://images.pexels.com/photos/919436/pexels-photo-919436.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-919436.jpg&fm=jpg');   
+  //  background:linear-gradient(to right,rgba(0,0,0,0.1),rgba(0,0,0,0.8)),url('https://images.pexels.com/photos/919436/pexels-photo-919436.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-919436.jpg&fm=jpg');   
+    color: #fff;
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: 100% 100%;
+}
+.btn-bg
+{background-image: linear-gradient(to top, #f77062 0%, #fe5196 100%);
+}
+.h-100
+{
+  height: 100%;
+    width:100%;   
+}
+body{
+font-family: 'Varela Round', sans-serif;
+}
+
